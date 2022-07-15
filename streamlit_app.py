@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.titel('My Project chap1')
+streamlit.title('My Project chap1')
