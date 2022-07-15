@@ -10,5 +10,5 @@ streamlit.text('🥑🍞 Avocado Toast')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
-streamlit.header(1FAC0	🫀)
+streamlit.header(🫀)
 
