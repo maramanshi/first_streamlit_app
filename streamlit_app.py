@@ -76,4 +76,4 @@ add_my_fruit = streamlit.text_input('What fruit would you like information about
 streamlit.write('Thanks for adding', add_my_fruit)
 
 #insert on snowflake
-my_cur.execute("insert into fruit_load_list values ('from streamlist')")
+#my_cur.execute("insert into fruit_load_list values ('from streamlist')")
