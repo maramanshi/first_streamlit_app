@@ -66,10 +66,10 @@ if streamlit.button('Get Fruit Load List'):
     my_data_rows = get_fruit_load_list()
     streamlit.dataframe(my_data_row)
 
-my_data_row = my_cur.fetchall()
+#my_data_row = my_cur.fetchall()
 #streamlit.text("Hello from Snowflake:")
-streamlit.header("The fruit load list contains:")
-streamlit.dataframe(my_data_row)
+#streamlit.header("The fruit load list contains:")
+#streamlit.dataframe(my_data_row)
 
 #Add a second select box
 add_my_fruit = streamlit.text_input('What fruit would you like information about?', 'jackfruit')
